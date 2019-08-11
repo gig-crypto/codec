@@ -1,0 +1,19 @@
+SMAP
+eligibility_jsp.java
+JSP
+*S JSP
+*F
++ 0 eligibility.jsp
+eligibility.jsp
+*L
+2,103:49
+104,6:152
+110,5:159
+114:164
+115:165,6
+116:171
+117,2:173
+118,9:175
+127,5:185
+131,4:190
+*E
